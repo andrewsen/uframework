@@ -1,0 +1,15 @@
+*.a
+*.o
+trash/
+backup/
+bin/
+!bin/*.mc
+*.user
+*.user.*
+uc/
+uc-old/
+/*.cpp
+/*.sh
+/*.*~
+/*.txt
+/makefile
